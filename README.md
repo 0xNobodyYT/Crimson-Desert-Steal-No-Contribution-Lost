@@ -32,3 +32,7 @@ The `-5` message can still appear, but the real contribution value stays unchang
 - Run it through the BAT so it gets administrator rights automatically.
 - This is a runtime mod. It does not patch game files on disk.
 - If the game updates, the helper may stop working until the hook offsets are updated.
+
+## Changelog
+
+- Increased the steal protection window to `5000 ms` because some delayed chest loots were slipping through the original shorter window.
