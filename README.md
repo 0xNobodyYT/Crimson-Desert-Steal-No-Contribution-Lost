@@ -13,9 +13,6 @@ The `-5` message can still appear, but the real contribution value stays unchang
 - `crimson_desert_contribution_injector.bat`
 - `CrimsonDesertContributionInjector.exe`
 
-Optional source:
-- `src/Program.cs`
-
 ## How to use
 
 1. Put the BAT and EXE in the same folder.
