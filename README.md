@@ -13,6 +13,7 @@ The `-5` message can still appear, but the real contribution value stays unchang
 - `crimson_desert_contribution_injector.bat`
 - `CrimsonDesertContributionInjector.exe`
 - `src/Program.cs`
+- `ASI Version/`
 
 ## How to use
 
@@ -37,3 +38,4 @@ The `-5` message can still appear, but the real contribution value stays unchang
 ## Changelog
 
 - Increased the steal protection window to `5000 ms` because some delayed chest loots were slipping through the original shorter window.
+- Added an alternate ASI-loader version for users who prefer a drop-in in-process mod layout.
